@@ -1,0 +1,5 @@
+Bug/error being reported: Cannot Sign Up to the forums. 
+Steps to reproduce: Clicking "Sign Up" or "Login" It brings me to an error page.
+Expected result: To be able to sign up to the forum.
+Actual result: Error Page saying "Sorry you don't have permission for that!"
+https://forums.nexusmods.com/index.php?app=core&module=global&section=register
